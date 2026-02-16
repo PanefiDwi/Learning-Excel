@@ -1,5 +1,5 @@
 # Cofee Sales Dashboard from 2019-2022 Data ☕
-_This mini-project uses coffeeOrdersData.xlsx as the source file to create the main project file, coffeeOrdersProject.xlsx. This project is based on a reference video by @mochen865 on YouTube regarding Excel portfolios, as shown in the documentation below._
+This mini-project uses `coffeeOrdersData.xlsx` as the source file to create the main project file, `coffeeOrdersProject.xlsx`. This project is based on a reference video by @mochen865 on YouTube regarding Excel portfolios, as shown in the documentation below.
 
 ## Overview
 This documentation provides a comprehensive overview of the Coffee Sales Dashboard project, a tool developed to analyze coffee sales data from 2019 to 2022. The dashboard offers insights into product performance, customer behavior, and strategic business recommendations to enhance sales and customer experience.
